@@ -25,7 +25,7 @@ Este curso oferece uma introdução completa ao mundo da administração de banc
 | # | Descrição | link de acesso |
 |-|-|-|
 |1|Petshop|[veja](./modelagens/petshop/petshop.md)|
-|2|Biblioteca e associados|[veja](./modelagens/Biblio_assoc/Biblio_assoc.md)|
+|2|Biblioteca e associados|[veja](./modelagens/Biblio_assoc/biblioteca_associado.md)|
 |3|Berçario|[veja](./modelagens/Bercario/bercario.md)|
 |4|Floricultura|[veja](./modelagens/floricultura/floricultura.md)|
 |5|Biblioteca|[veja](./modelagens/biblioteca/biblioteca.md)|
