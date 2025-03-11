@@ -67,3 +67,17 @@ if (idade>=18:)
 CREATE DATABASE senai
 IF NOT EXISTS;
 ```
+
+---
+
+## marcadores 
+
+*italico*
+
+**Negrito**
+
+***italico e negrito***
+
+~~Texto taxado~~
+
+---
